@@ -25,3 +25,4 @@ export const fetchHealthAdvice = async (input) => {
   return res.data.choices[0].message.content;
 };
 npx expo install @expo/vector-icons
+npx expo start
