@@ -1,3 +1,5 @@
+import { FontAwesome5 } from '@expo/vector-icons';
+
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
 import { speak } from '../speech';
