@@ -43,3 +43,13 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
 });
+import IconTextInput from '../components/IconTextInput';
+
+// ...
+
+<IconTextInput
+  icon="healing"
+  value={input}
+  onChangeText={setInput}
+  placeholder={i18n.t('enterSymptoms')}
+/>
