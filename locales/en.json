@@ -3,3 +3,11 @@
   "getAdvice": "Get Advice",
   "enterSymptoms": "Enter symptoms..."
 }
+{
+  "ask": "What symptoms are you experiencing?",
+  "getAdvice": "Get Advice",
+  "enterSymptoms": "Enter symptoms...",
+  "advice": "Your Health Advice",
+  "speakAgain": "Speak Again",
+  "back": "Go Back"
+}
