@@ -17,6 +17,8 @@ export default function HomeScreen({ navigation }) {
 
   return (
     <View style={styles.container}>
+    <FontAwesome5 name="heartbeat" size={50} color="tomato" style={{ alignSelf: 'center', marginBottom: 20 }} />
+
       <Text style={styles.label}>{i18n.t('ask')}</Text>
       <TextInput
         style={styles.input}
